@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Users/david/Desktop/htmlcssjs/ReactPlatzi/curso-react-intro/build/index.html/static/css/main.f922f381.css",
-    "main.js": "/Users/david/Desktop/htmlcssjs/ReactPlatzi/curso-react-intro/build/index.html/static/js/main.5832b259.js",
-    "index.html": "/Users/david/Desktop/htmlcssjs/ReactPlatzi/curso-react-intro/build/index.html/index.html",
-    "static/media/delete.svg": "/Users/david/Desktop/htmlcssjs/ReactPlatzi/curso-react-intro/build/index.html/static/media/delete.9f97632c6af4004e77941359f70e18f3.svg",
-    "static/media/check.svg": "/Users/david/Desktop/htmlcssjs/ReactPlatzi/curso-react-intro/build/index.html/static/media/check.5dfcd315d8e31c04ad6d23d703c38a89.svg",
-    "main.f922f381.css.map": "/Users/david/Desktop/htmlcssjs/ReactPlatzi/curso-react-intro/build/index.html/static/css/main.f922f381.css.map",
-    "main.5832b259.js.map": "/Users/david/Desktop/htmlcssjs/ReactPlatzi/curso-react-intro/build/index.html/static/js/main.5832b259.js.map"
+    "main.css": "/todo-app/static/css/main.f922f381.css",
+    "main.js": "/todo-app/static/js/main.8e69a5cf.js",
+    "index.html": "/todo-app/index.html",
+    "static/media/delete.svg": "/todo-app/static/media/delete.9f97632c6af4004e77941359f70e18f3.svg",
+    "static/media/check.svg": "/todo-app/static/media/check.5dfcd315d8e31c04ad6d23d703c38a89.svg",
+    "main.f922f381.css.map": "/todo-app/static/css/main.f922f381.css.map",
+    "main.8e69a5cf.js.map": "/todo-app/static/js/main.8e69a5cf.js.map"
   },
   "entrypoints": [
     "static/css/main.f922f381.css",
-    "static/js/main.5832b259.js"
+    "static/js/main.8e69a5cf.js"
   ]
 }
